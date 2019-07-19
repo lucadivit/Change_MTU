@@ -9,3 +9,7 @@ You have to run this script with sudo command:
 ```
 sudo python main.py
 ```
+To see your network interfaces you can run this command:
+```
+ifconfig
+```
